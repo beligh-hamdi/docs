@@ -5,9 +5,9 @@ date:   2025-03-31 18:05:25 -0400
 categories: ebooks
 ---
 
-- [ebook1][Apache Camel Developer's Cookbook by Scott Cranton Jakub Korab]
+- [ebook1](Apache Camel Developer's Cookbook by Scott Cranton Jakub Korab)
 
-- [ebook2][Mastering Apache Camel an advanced guide to enterprise integration using Apache Camel by Onofre Jean-Baptiste] 
+- [ebook2](Mastering Apache Camel an advanced guide to enterprise integration using Apache Camel by Onofre Jean-Baptiste)
 
 [ebook1]: https://beligh-hamdi.github.io/docs/assets/ebooks/Apache Camel Developer's Cookbook by Scott Cranton Jakub Korab.pdf
 
